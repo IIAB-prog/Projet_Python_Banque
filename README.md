@@ -1,5 +1,5 @@
 # Projet_Python_Banque
-Ce Projet a été réalisé par IMA Bénéwendé Igor Adam dans le cadre du cours python data science de  M.SOME Nibènaon
+Ce Projet a été réalisé par IMA Bénéwendé Igor Adam Etudiant en Master1 Intelligence Artificielle à Université Aube Nouvelle dans le cadre du cours python data science de  M.SOME Nibènaon
 
 # Gestion de Comptes Bancaires
 Ce projet est conçu pour gérer des comptes bancaires avec des fonctionnalités de dépôt, retrait et affichage du solde. Il utilise des classes Python pour représenter les banques et les clients.
@@ -13,3 +13,5 @@ Ce projet permet de créer des comptes bancaires pour des clients, avec des info
 - Retrait : Effectuez des retraits sur les comptes.
 - Affichage du solde : Affichez le solde actuel des comptes.
 - Enregistrement des transactions : Enregistrez toutes les transactions dans un fichier texte.
+#Installation
+Clone les fichiers gestion et main dans le même dossier et exécuter main.py

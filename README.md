@@ -9,7 +9,7 @@ Ce projet permet de créer des comptes bancaires pour des clients, avec des info
 
 #Fonctionnalités
 - Création de comptes : Créez des comptes bancaires avec des informations client détaillées.
-- Dépôt** : Effectuez des dépôts sur les comptes.
-- Retrait** : Effectuez des retraits sur les comptes.
+- Dépôt : Effectuez des dépôts sur les comptes.
+- Retrait : Effectuez des retraits sur les comptes.
 - Affichage du solde : Affichez le solde actuel des comptes.
 - Enregistrement des transactions : Enregistrez toutes les transactions dans un fichier texte.

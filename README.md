@@ -9,12 +9,12 @@ Ce projet est conçu pour gérer des comptes bancaires avec des fonctionnalités
 # Description du Projet:
 Ce projet permet de créer des comptes bancaires pour des clients, avec des informations détaillées telles que le nom, prénom, âge, adresse, et solde initial. Les comptes peuvent être utilisés pour effectuer des dépôts et des retraits, et le solde est mis à jour en conséquence. Toutes les transactions sont enregistrées dans un fichier texte pour un suivi facile.
 
-**#Fonctionnalités:**
+**Fonctionnalités:**
 - Création de comptes : Créez des comptes bancaires avec des informations client détaillées.
 - Dépôt : Effectuez des dépôts sur les comptes.
 - Retrait : Effectuez des retraits sur les comptes.
 - Affichage du solde : Affichez le solde actuel des comptes.
 - Enregistrement des transactions : Enregistrez toutes les transactions dans un fichier texte.
 
-**#Installation:**
+**Installation:**
 Clone (télechargé) les fichiers gestion.py et main.py dans le même dossier et exécuter le main.py.

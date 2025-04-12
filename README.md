@@ -1,5 +1,4 @@
 # Projet_Python_Banque:
-Voici une reformulation avec mise en gras :
 
 **Ce projet a été réalisé par** **IMA Bénéwendé Igor Adam** **et** **Komi Mohamed Ramdane**, **étudiants en Master 1 Intelligence Artificielle à l’Université Aube Nouvelle**, **dans le cadre du cours de Python pour la Data Science dispensé par** **M. SOME Nibènaon**.
 

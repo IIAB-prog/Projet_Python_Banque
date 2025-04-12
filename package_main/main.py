@@ -43,6 +43,7 @@ if __name__ == "__main__":
         print(f"\nInformations du client {i+1} :")
         
         nom_banque = input("Nom de la banque : ")
+        siege=input("Siege de la Banque: ")
         type_compte = input("Type de compte : ")
         
         nom = input("Nom du client : ")
@@ -53,7 +54,7 @@ if __name__ == "__main__":
         telephone = saisir_telephone()
         solde = saisir_solde()
 
-        client = Client(nom_banque, type_compte, nom, prenom, age, adresse, telephone, solde)
+        client = Client(nom_banque, siege, type_compte, nom, prenom, age, adresse, telephone, solde)
         liste_client.append(client)
 
     print("\n|*************************************************************|\n")

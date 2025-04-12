@@ -8,17 +8,18 @@ from datetime import datetime  # Import de datetime
 
 # Création de la classe banque
 class Banque:
+    siege="Ouagadougou"
     # Initialisation
-    def __init__(self, nom_banque, type_compte):
+    def __init__(self, nom_banque, siege, type_compte):
         self.nom_banque = nom_banque
-        self.siege = "Ouagadougou"
+        self.siege = siege
         self.type_compte = type_compte
 
 # Création de la classe Client qui hérite la classe Banque
 class Client(Banque):
     # Initialisation
-    def __init__(self, nom_banque, type_compte, nom, prenom, age, adresse, telephone, solde):
-        super().__init__(nom_banque, type_compte)
+    def __init__(self, nom_banque, siege, type_compte, nom, prenom, age, adresse, telephone, solde):
+        super().__init__(nom_banque, siege, type_compte)
         self.nom = nom
         self.prenom = prenom
         self.age = age

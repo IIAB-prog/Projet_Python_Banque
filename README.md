@@ -16,4 +16,4 @@ Ce projet permet de créer des comptes bancaires pour des clients, avec des info
 - Enregistrement des transactions : Enregistrez toutes les transactions dans un fichier texte.
 
 **Installation:**
-Clone (télechargé) les fichiers gestion.py et main.py dans le même dossier et exécuter le main.py.
+Clone (télechargé) le projet et mettre dans le même dossier et vous assurez du chemin accès du package_genstion dans le fichier main avant d'exécuter le main.py.
